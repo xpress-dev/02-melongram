@@ -38,7 +38,7 @@ A modern, full-stack real-time chat application built with React, Node.js, Expre
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/melongram.git
+   git clone https://github.com/xpress-dev/melongram.git
    cd melongram
    ```
 
